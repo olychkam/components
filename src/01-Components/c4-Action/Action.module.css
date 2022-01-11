@@ -1,0 +1,7 @@
+.container{
+    display:flex;
+}
+.icon{
+    margin-left: 150px;
+    padding-top: 15px;
+}
